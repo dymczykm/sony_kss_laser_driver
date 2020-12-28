@@ -45,6 +45,8 @@ You can measure the laser current on the `J2`/`J3` banana jacks as a voltage acr
 
 You can find it in [my library](https://github.com/dymczykm/marcin_kicad_library).
 
+CXA1081 has a Samsung equivalent (KA9201) and its [datasheet is hosted by console5.com](https://console5.com/techwiki/images/a/a1/KA9201.pdf).
+
 ## Component list
 
 I've sourced CXA1081 SDIP from ebay (I took a used one to be sure it's not a counterfeit).
