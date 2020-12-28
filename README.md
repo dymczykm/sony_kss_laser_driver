@@ -23,7 +23,7 @@ The circuit is tested and worked fine on several Sony pickups without burning an
 ## Connections
 
 ### Power supply
-Connect to `J1` a stable power source within the range acceptable by `78L05` on the board.
+Connect to `J1` a stable power source within the range acceptable by `78L05` used in the circuit.
 
 ### Laser pickup
 You can use either of the 3 connections:
