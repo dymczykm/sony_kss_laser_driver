@@ -33,6 +33,10 @@ You can use either of the 3 connections:
 
 The `LD_SHORT` jumper shorts out the laser diode. Remove the jumper once your pickup is fully connected.
 
+### Switching on the laser diode
+
+Use the `SW1` switch to turn on the diode. After turning it on, do not look directly into it lens.
+
 ### Measuring laser diode current
 
 You can measure the laser current on the `J2`/`J3` banana jacks as a voltage across a 10-ohm resistor.
